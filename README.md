@@ -87,6 +87,12 @@
 
 <br>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stephellia/stephellia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stephellia/stephellia/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stephellia/stephellia/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=stephellia&style=flat-square&color=8f2c5b" /></p> 
 </div>
